@@ -1,4 +1,4 @@
-# DataSecurity_Project2
+# BookCipher_RouteTransposition
 ## Udhëzime për Ekzekutimin e Programit
 Ky aplikacion Java implementon dy algoritme të sigurisë së mesazheve:
     **Book Cipher, Route Transposition**.
